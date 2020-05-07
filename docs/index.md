@@ -25,3 +25,12 @@ All done 🎉
 [[diff](https://github.com/githubsatelliteworkshops/webhooks-with-rest/pull/9.diff)][[pull request](https://github.com/githubsatelliteworkshops/webhooks-with-rest/pull/9)]
 * * *
 
+# 2020-05-07 18:04:20 UTC
+
+By: ![avatar](https://avatars1.githubusercontent.com/u/1641405?v=4&s=50) [dcwither](https://github.com/dcwither)
+
+## An awesome change
+- Something cool
+
+[[diff](https://github.com/dcwither/webhooks-with-rest/pull/1.diff)][[pull request](https://github.com/dcwither/webhooks-with-rest/pull/1)]
+* * *
